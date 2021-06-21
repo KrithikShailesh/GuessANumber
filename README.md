@@ -1,6 +1,6 @@
 # GuessANumber
 
-This is number guessing game app using React Native.
+This is a number guessing game app using React Native.
 
 ## Learned So Far:
 
